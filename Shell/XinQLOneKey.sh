@@ -50,7 +50,7 @@ pnpm add -g pnpm
 
 pnpm install -g
 
-npm install -g date-fns axios jsdom ts-md5 ds
+npm install -g date-fns axios jsdom ts-md5 ds crypto-js
 
 #pnpm install -g js-base64 qrcode-terminal silly-datetime
 pip3 install ping3 requests pycryptodome aiohttp cython utils
