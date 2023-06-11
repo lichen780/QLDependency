@@ -50,13 +50,13 @@ pnpm add -g pnpm
 
 pnpm install -g
 
-npm install -g date-fns axios jsdom ts-md5 ds crypto-js
+npm install -g date-fns axios jsdom ts-md5 ds crypto-js global-agent
 
 #pnpm install -g js-base64 qrcode-terminal silly-datetime
 pip3 install ping3 requests pycryptodome aiohttp cython utils
 pip3 install requests
 
-#cd /ql/data/scripts/ && apk add --no-cache build-base g++ cairo-dev pango-dev giflib-dev && npm i && npm i -S ts-node typescript @types/node date-fns axios png-js jsdom ts-md5 ds crypto-js canvas --build-from-source
+#cd /ql/data/scripts/ && apk add --no-cache build-base g++ cairo-dev pango-dev giflib-dev && npm i && npm i -S ts-node typescript @types/node date-fns axios png-js jsdom ts-md5 ds crypto-js global-agent canvas --build-from-source
 #cd /ql
 #apk add --no-cache build-base g++ cairo-dev pango-dev giflib-dev && cd /ql/data/scripts/ && npm install canvas --build-from-source
 #cd /ql
