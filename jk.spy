@@ -5,7 +5,7 @@ js_config:
   Env:: M_WX_CENTER_DRAW_URL
   KeyWord:
   - - M_WX_CENTER_DRAW_URL
-  Script: walle1798_WALL.E/m_jd_wx_centerDraw.js
+  Script: 6dylan6_jdm/m_jd_wx_centerDraw.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -14,7 +14,7 @@ js_config:
   Env:: M_WX_ADD_CART_URL
   KeyWord:
   - - M_WX_ADD_CART_URL
-  Script: walle1798_WALL.E/m_jd_wx_addCart.js
+  Script: 6dylan6_jdm/m_jd_wx_addCart.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -23,7 +23,7 @@ js_config:
   Env:: M_WX_FOLLOW_DRAW_URL
   KeyWord:
   - - M_WX_FOLLOW_DRAW_URL
-  Script: walle1798_WALL.E/m_jd_wx_followDraw.js
+  Script: 6dylan6_jdm/m_jd_wx_followDraw.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -32,7 +32,7 @@ js_config:
   Env:: M_WX_COLLECT_CARD_URL
   KeyWord:
   - - M_WX_COLLECT_CARD_URL
-  Script: walle1798_WALL.E/m_jd_wx_collectCard.js
+  Script: 6dylan6_jdm/m_jd_wx_collectCard.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -50,7 +50,7 @@ js_config:
   Env:: M_WX_SHARE_URL
   KeyWord:
   - - M_WX_SHARE_URL
-  Script: walle1798_WALL.E/m_jd_wx_share.js
+  Script: 6dylan6_jdm/m_jd_wx_share.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -59,7 +59,7 @@ js_config:
   Env:: M_WX_SECOND_DRAW_URL
   KeyWord:
   - - M_WX_SECOND_DRAW_URL
-  Script: walle1798_WALL.E/m_jd_wx_secondDraw.js
+  Script: 6dylan6_jdm/m_jd_wx_secondDraw.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -68,7 +68,7 @@ js_config:
   Env:: M_WX_BUILD_DRAW_URL
   KeyWord:
   - - M_WX_BUILD_DRAW_URL
-  Script: walle1798_WALL.E/m_jd_wx_buildDraw.js
+  Script: 6dylan6_jdm/m_jd_wx_buildDraw.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -77,7 +77,7 @@ js_config:
   Env:: M_WX_SHOP_SIGN_URL
   KeyWord:
   - - M_WX_SHOP_SIGN_URL
-  Script: walle1798_WALL.E/m_jd_wx_shopSign.js
+  Script: 6dylan6_jdm/m_jd_wx_shopSign.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -86,7 +86,7 @@ js_config:
   Env:: M_WX_SHOP_GIFT_URL
   KeyWord:
   - - M_WX_SHOP_GIFT_URL
-  Script: walle1798_WALL.E/m_jd_wx_shopGift.js
+  Script: 6dylan6_jdm/m_jd_wx_shopGift.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -95,7 +95,7 @@ js_config:
   Env:: jd_task_zd_custom
   KeyWord:
   - - jd_task_zd_custom
-  Script: walle1798_WALL.E/m_jd_wx_team.js
+  Script: 6dylan6_jdm/m_jd_wx_team.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -113,7 +113,7 @@ js_config:
   Env:: M_WX_LUCK_DRAW_URL
   KeyWord:
   - - M_WX_LUCK_DRAW_URL
-  Script: walle1798_WALL.E/m_jd_wx_luckDraw.js
+  Script: 6dylan6_jdm/m_jd_wx_luckDraw.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -122,7 +122,7 @@ js_config:
   Env:: LUCK_DRAW_URL
   KeyWord:
   - - LUCK_DRAW_URL
-  Script: KingRan_KR/jd_luck_draw.js
+  Script: 6dylan6_jdm/jd_luck_draw.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -131,7 +131,7 @@ js_config:
   Env:: JD_Lottery
   KeyWord:
   - - JD_Lottery
-  Script: KingRan_KR/jd_lottery.js
+  Script: 6dylan6_jdm/jd_lottery.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -140,7 +140,7 @@ js_config:
   Env:: jd_wdz_activityId
   KeyWord:
   - - jd_wdz_activityId
-  Script: KingRan_KR/jd_wdz.js
+  Script: 6dylan6_jdm/jd_wdz.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -149,7 +149,7 @@ js_config:
   Env:: jd_wdzfd_activityId
   KeyWord:
   - - jd_wdzfd_activityId
-  Script: KingRan_KR/jd_wdzfd.js
+  Script: 6dylan6_jdm/jd_wdzfd.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -167,7 +167,7 @@ js_config:
   Env:: jd_wxUnPackingActivity_activityId
   KeyWord:
   - - jd_wxUnPackingActivity_activityId
-  Script: KingRan_KR/jd_wxUnPackingActivity.js
+  Script: 6dylan6_jdm/jd_wxUnPackingActivity.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -176,7 +176,7 @@ js_config:
   Env:: JD_JOYOPEN
   KeyWord:
   - - JD_JOYOPEN
-  Script: KingRan_KR/jd_joyopen.js desi JD_COOKIE 1-10
+  Script: 6dylan6_jdm/jd_joyopen.js desi JD_COOKIE 1-10
   Wait: 5
   TimeOut: 0
 - Container:
@@ -185,7 +185,7 @@ js_config:
   KeyWord:
   - - jd_wxMcLevelAndBirthGifts_activityId
   Env:: jd_wxMcLevelAndBirthGifts_activityId
-  Script: KingRan_KR/jd_wxMcLevelAndBirthGifts.js
+  Script: 6dylan6_jdm/jd_wxMcLevelAndBirthGifts.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -194,7 +194,7 @@ js_config:
   Env:: jd_wxKnowledgeActivity_activityUrl
   KeyWord:
   - - jd_wxKnowledgeActivity_activityUrl
-  Script: KingRan_KR/jd_wxKnowledgeActivity.js
+  Script: 6dylan6_jdm/jd_wxKnowledgeActivity.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -203,7 +203,7 @@ js_config:
   Env:: M_WX_DADOUDOU_URL
   KeyWord:
   - - M_WX_DADOUDOU_URL
-  Script: walle1798_WALL.E/m_jd_wx_dadoudou.js
+  Script: 6dylan6_jdm/m_jd_wx_dadoudou.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -212,7 +212,7 @@ js_config:
   Env:: M_WX_GAME_URL
   KeyWord:
   - - M_WX_GAME_URL
-  Script: walle1798_WALL.E/m_jd_wx_game.js
+  Script: 6dylan6_jdm/m_jd_wx_game.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -221,7 +221,7 @@ js_config:
   Env:: jd_collect_shop_activityUrl
   KeyWord:
   - - jd_collect_shop_activityUrl
-  Script: KingRan_KR/jd_txzj_collect_shop.js
+  Script: 6dylan6_jdm/jd_txzj_collect_shop.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -230,7 +230,7 @@ js_config:
   Env:: jd_collect_item_activityUrl
   KeyWord:
   - - jd_collect_item_activityUrl
-  Script: KingRan_KR/jd_txzj_collect_item.js
+  Script: 6dylan6_jdm/jd_txzj_collect_item.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -239,7 +239,7 @@ js_config:
   Env:: jd_cart_item_activityUrl
   KeyWord:
   - - jd_cart_item_activityUrl
-  Script: KingRan_KR/jd_txzj_cart_item.js
+  Script: 6dylan6_jdm/jd_txzj_cart_item.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -248,7 +248,7 @@ js_config:
   Env:: jd_lottery_activityUrl
   KeyWord:
   - - jd_lottery_activityUrl
-  Script: KingRan_KR/jd_txzj_lottery.js
+  Script: 6dylan6_jdm/jd_txzj_lottery.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -257,7 +257,7 @@ js_config:
   Env:: M_INTERACT_INVITE_URL
   KeyWord:
   - - M_INTERACT_INVITE_URL
-  Script: walle1798_WALL.E/m_jd_interact_invite.js
+  Script: 6dylan6_jdm/m_jd_interact_invite.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -266,7 +266,7 @@ js_config:
   Env:: jd_lzkj_loreal_followShop_url
   KeyWord:
   - - jd_lzkj_loreal_followShop_url
-  Script: KingRan_KR/jd_lzkj_loreal_followShop.js
+  Script: 6dylan6_jdm/jd_lzkj_loreal_followShop.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -275,7 +275,7 @@ js_config:
   Env:: jd_lzkj_loreal_cart_url
   KeyWord:
   - - jd_lzkj_loreal_cart_url
-  Script: KingRan_KR/jd_lzkj_loreal_cart.js
+  Script: 6dylan6_jdm/jd_lzkj_loreal_cart.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -284,7 +284,7 @@ js_config:
   Env:: jd_lzkj_loreal_draw_url
   KeyWord:
   - - jd_lzkj_loreal_draw_url
-  Script: KingRan_KR/jd_lzkj_loreal_draw.js
+  Script: 6dylan6_jdm/jd_lzkj_loreal_draw.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -293,7 +293,7 @@ js_config:
   Env:: M_FOLLOW_SHOP_ARGV
   KeyWord:
   - - M_FOLLOW_SHOP_ARGV
-  Script: walle1798_WALL.E/m_jd_follow_shop.js
+  Script: 6dylan6_jdm/m_jd_follow_shop.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -302,7 +302,7 @@ js_config:
   Env:: M_WX_COMPLETE_DRAW_URL
   KeyWord:
   - - M_WX_COMPLETE_DRAW_URL
-  Script: walle1798_WALL.E/m_jd_wx_completeDraw.js
+  Script: 6dylan6_jdm/m_jd_wx_completeDraw.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -311,7 +311,7 @@ js_config:
   Env:: M_JINGGENG_INVITE_URL
   KeyWord:
   - - M_JINGGENG_INVITE_URL
-  Script: walle1798_WALL.E/m_jd_wx_showInviteJoin.js
+  Script: 6dylan6_jdm/m_jd_wx_showInviteJoin.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -320,7 +320,7 @@ js_config:
   Env:: M_WX_POINT_DRAW_URL
   KeyWord:
   - - M_WX_POINT_DRAW_URL
-  Script: walle1798_WALL.E/m_jd_wx_pointDraw.js
+  Script: 6dylan6_jdm/m_jd_wx_pointDraw.js
   Wait: 5
   TimeOut: 0
 - Container:
@@ -329,6 +329,6 @@ js_config:
   Env:: M_WX_CARTKOI_URL
   KeyWord:
   - - M_WX_CARTKOI_URL
-  Script: walle1798_WALL.E/m_jd_wx_cartKoi.js
+  Script: 6dylan6_jdm/m_jd_wx_cartKoi.js
   Wait: 5
   TimeOut: 0
