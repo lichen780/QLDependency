@@ -1,11 +1,9 @@
 [{
-		"name": "习酒",
-		"url": "body",
-		"token": "body"
-	},
-	{
-		"name": "茄皇",
-		"url": "body",
-		"token": "body"
-	}
-]
+    "name": "习酒",
+    "url": "body",
+    "token": "body"
+}, {
+    "name": "茄皇",
+    "url": "body",
+    "token": "body"
+}]
