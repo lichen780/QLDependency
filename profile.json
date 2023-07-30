@@ -1,9 +1,9 @@
 [{
-    "name": "习酒",
+    "name": "习酒小程序",
     "url": "body",
     "token": "body"
 }, {
-    "name": "茄皇",
-    "url": "body",
+    "name": "茄皇小程序",
+    "url": "qiehuang-apig.xiaoyisz.com/qiehuangsecond/ga/public/api/login",
     "token": "body"
 }]
