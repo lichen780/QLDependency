@@ -1,9 +1,9 @@
 [{
     "name": "习酒小程序",
     "url": "body",
-    "token": "body"
+    "body": "Authorization"
 }, {
     "name": "茄皇小程序",
     "url": "qiehuang-apig.xiaoyisz.com/qiehuangsecond/ga/public/api/login",
-    "token": "body"
+    "body": "请求body"
 }]
