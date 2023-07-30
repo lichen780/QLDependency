@@ -9,5 +9,5 @@
 }, {
     "name": "茄皇小程序",
     "url": "qiehuang-apig.xiaoyisz.com/qiehuangsecond/ga/public/api/login",
-    "params": "requestbody"
+    "params": "request body"
 }]
