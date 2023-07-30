@@ -1,9 +1,13 @@
 [{
     "name": "习酒小程序",
     "url": "zhdl-dl.gzxijiu.com/api/open/event-log/E0",
-    "body": "Authorization"
+    "params": {
+        "header": {
+            "token": "Authorization"
+        }
+    }
 }, {
     "name": "茄皇小程序",
     "url": "qiehuang-apig.xiaoyisz.com/qiehuangsecond/ga/public/api/login",
-    "body": "请求body"
+    "params": "请求body"
 }]
