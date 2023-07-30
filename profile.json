@@ -5,9 +5,11 @@
         "header": {
             "token": "Authorization"
         }
-    }
+    },
+    "remarks": "习酒小程序酿酒兑换话费"
 }, {
     "name": "茄皇小程序",
     "url": "qiehuang-apig.xiaoyisz.com/qiehuangsecond/ga/public/api/login",
-    "params": "request body"
+    "params": "request body",
+    "remarks": "茄皇小程序种番茄兑换泡面"
 }]
