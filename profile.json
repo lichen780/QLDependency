@@ -1,25 +1,26 @@
 [{
-    "name": "饿了么小程序",
-    "url": "waimai-guide.ele.me",
-    "params": {
-        "header": {
-            "token": "cookie"
-        }
-    },
-    "remarks": "饿了么小程序得吃货豆，兑换无门槛优惠券"
-},
-    {
-    "name": "习酒小程序",
-    "url": "zhdl-dl.gzxijiu.com/api/open/event-log/E0",
-    "params": {
-        "header": {
-            "token": "login_code"
-        }
-    },
-    "remarks": "习酒小程序酿酒兑换话费，一个月可兑换100元话费"
-}, {
-    "name": "茄皇小程序",
-    "url": "qiehuang-apig.xiaoyisz.com/qiehuangsecond/ga/public/api/login",
-    "params": "request body",
-    "remarks": "茄皇小程序种番茄兑换泡面，一个月可兑换一箱泡面"
-}]
+		"name": "饿了么小程序",
+		"url": "waimai-guide.ele.me",
+		"params": {
+			"header": {
+				"token": "cookie"
+			}
+		},
+		"remarks": "饿了么小程序得吃货豆，兑换无门槛优惠券"
+	},
+	{
+		"name": "习酒小程序",
+		"url": "zhdl-dl.gzxijiu.com/api/open/event-log/E0",
+		"params": {
+			"header": {
+				"token": "login_code"
+			}
+		},
+		"remarks": "习酒小程序酿酒兑换话费，一个月可兑换100元话费"
+	}, {
+		"name": "茄皇小程序",
+		"url": "qiehuang-apig.xiaoyisz.com/qiehuangsecond/ga/public/api/login",
+		"params": "request body",
+		"remarks": "茄皇小程序种番茄兑换泡面，一个月可兑换一箱泡面"
+	}
+]
