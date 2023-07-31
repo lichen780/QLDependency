@@ -1,4 +1,14 @@
 [{
+    "name": "饿了么小程序",
+    "url": "waimai-guide.ele.me",
+    "params": {
+        "header": {
+            "token": "cookie"
+        }
+    },
+    "remarks": "习酒小程序酿酒兑换话费，一个月可兑换100元话费"
+}，
+    {
     "name": "习酒小程序",
     "url": "zhdl-dl.gzxijiu.com/api/open/event-log/E0",
     "params": {
